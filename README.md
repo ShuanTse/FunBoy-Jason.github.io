@@ -7,6 +7,6 @@
 ### 图解TCPIP 
   1.
 
-### 个人其他分享
+### Other
 1.  [CSDN个人博客](https://me.csdn.net/qq_45903258)<br>
 2.  [segmentfault个人主页](https://segmentfault.com/u/funboy_jason)
