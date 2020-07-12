@@ -1,4 +1,4 @@
-# 希望你可以实现自己的价值
+# I hope you can realize your value
 
 [FunBoy-Jason的github主页](https://github.com/FunBoy-Jason)
 
