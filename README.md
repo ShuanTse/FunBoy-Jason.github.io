@@ -8,5 +8,6 @@
   1.
 
 ### Other
-1.  [CSDN个人博客](https://me.csdn.net/qq_45903258)<br>
-2.  [segmentfault个人主页](https://segmentfault.com/u/funboy_jason)
+1.  [CSDN](https://me.csdn.net/qq_45903258)<br>
+2.  [segmentfault](https://segmentfault.com/u/funboy_jason)
+3.  [掘金](https://juejin.im/user/5f0ba3cae51d451dde2e568b)
