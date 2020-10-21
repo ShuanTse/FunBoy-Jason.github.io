@@ -8,6 +8,4 @@
 
 >so,don't be scare ,don't be worry for youself.
 
->i am sorry,too bad at english.
-
 #### Sat Oct 17 08:26:35 CST 2020
