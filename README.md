@@ -1,11 +1,13 @@
 # About Here
 
->I thinked to many questions for my live and pursue.
+>Find the right way to learn.
 
->sometimes,if you are going to try,just do it.
+>Control your laziness.
 
->because of it can get more to you.
+>Get in the habit of reading.
 
->so,don't be scare ,don't be worry for youself.
+>Believe that what you can't do today can be done tomorrow.
 
-#### Sat Oct 17 08:26:35 CST 2020
+>Persistent, unremitting practice, targeted to learn, to exercise all their lack of ability.
+
+#### Sat Dec 04 00:00:00 CST 2020
